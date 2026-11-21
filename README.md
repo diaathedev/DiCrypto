@@ -7,6 +7,8 @@ all in a single Python script.
 ---
 
 <img width="1366" height="768" alt="menu" src="https://github.com/user-attachments/assets/087ecdbf-b46a-4ba1-be06-795a724badab" />
+----
+<img width="1366" height="768" alt="dicrypto1" src="https://github.com/user-attachments/assets/607e30f2-1685-4e06-877f-4a9a0775aa38" />
 
 
 ## ⚠️ Disclaimer
